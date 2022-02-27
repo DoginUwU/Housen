@@ -42,45 +42,24 @@ const GlobalStyle = createGlobalStyle`
     }
 
     @font-face {
-    font-family: 'Gordita Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Regular'), url('fonts/Gordita Regular.woff') format('woff');
-    } 
-
-    @font-face {
-    font-family: 'Gordita Thin';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Thin'), url('fonts/Gordita Thin.woff') format('woff');
-    }
-    
-    @font-face {
-    font-family: 'Gordita Light';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Light'), url('fonts/Gordita Light.woff') format('woff');
+        font-family: 'Gordita Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Gordita Regular'), url('fonts/Gordita Regular.woff') format('woff');
     }
 
     @font-face {
-    font-family: 'Gordita Medium';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Medium'), url('fonts/Gordita Medium.woff') format('woff');
+        font-family: 'Gordita Medium';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Gordita Medium'), url('fonts/Gordita Medium.woff') format('woff');
     }
 
     @font-face {
-    font-family: 'Gordita Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Bold'), url('fonts/Gordita Bold.woff') format('woff');
-    }
-
-    @font-face {
-    font-family: 'Gordita Black';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Gordita Black'), url('fonts/Gordita Black.woff') format('woff');
+        font-family: 'Gordita Bold';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Gordita Bold'), url('fonts/Gordita Bold.woff') format('woff');
     }
 `;
 
